@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = %q{Next core.}
   spec.description = %q{Next core for ruby gem.}
-  spec.homepage = "https://github.com/afeiship/nx"
+  spec.homepage = "https://github.com/aric-gem/nx"
   spec.licenses = ["MIT"]
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
